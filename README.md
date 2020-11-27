@@ -2,12 +2,13 @@
 <h3 align="center">I am a full-stack developer working in remote</h3>
 
 <p align="center"> <a href="https://twitter.com/lordinatrice" target="blank"><img src="https://img.shields.io/twitter/follow/lordinatrice?logo=twitter&style=for-the-badge" alt="lordinatrice" /></a> </p>
+<br/>
 
 - 🌱 I’m currently learning **VueJs and how to play piano 🎶**
 
 - 👯 I’m looking to collaborate on [Women on Rails, ressources website](https://github.com/women-on-rails/ressources)
 
-- 💬 Ask me about **Ruby On Rails, remote work**
+- 💬 Ask me about **Ruby On Rails, remote work** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
