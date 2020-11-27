@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://dev.to/lordinatrice" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="lordinatrice" height="30" width="40" /></a>
 <a href="https://twitter.com/lordinatrice" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lordinatrice" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/camille regnault" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="camille regnault" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/camille-regnault" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="camille regnault" height="30" width="40" /></a>
 <a href="https://medium.com/@lordinatrice" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@lordinatrice" height="30" width="40" /></a>
 </p>
 
