@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://twitter.com/lordinatrice" target="blank"><img src="https://img.shields.io/twitter/follow/lordinatrice?logo=twitter&style=for-the-badge" alt="lordinatrice" /></a> </p>
 <br/>
 
-- 🌱 Currently learning **VueJs and how to play piano 🎶**
+- 🌱 Currently learning **React and how to play piano 🎶**
 
 - 👀 Co-writing a [Ruby/Rails Newsletter](https://womenonrails.substack.com/)
 
