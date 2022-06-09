@@ -10,8 +10,6 @@
 
 - 👯 Looking to collaborate on [Women on Rails, ressources website](https://github.com/women-on-rails/ressources) and [Guide de reconversion](https://github.com/ladiesOfCodeParis/guide-reconversion/)
 
-- 📚 Finished War and Peace for pleasure  
-
 - 💬 Ask me about **Ruby On Rails, remote work** ♥️
 
 <h3 align="left">Connect with me:</h3>
