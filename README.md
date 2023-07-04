@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Camille</h1>
-<h3 align="center">I am a full-stack developer working in remote</h3>
+<h3 align="center">I am a back-end developer working in remote</h3>
 
 <p align="center"> <a href="https://twitter.com/lordinatrice" target="blank"><img src="https://img.shields.io/twitter/follow/lordinatrice?logo=twitter&style=for-the-badge" alt="lordinatrice" /></a> </p>
 <br/>
