@@ -28,3 +28,4 @@
   <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a>
 </p>
 
+“The world hates change. Yet it is the only thing that has brought progress.” Charles F. Kettering
