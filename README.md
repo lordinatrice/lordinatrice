@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Camille</h1>
 <h3 align="center">I am a back-end developer working in remote</h3>
+ <h5 align="center">“The world hates change. Yet it is the only thing that has brought progress.” Charles F. Kettering</h5>
 
 <p align="center"> <a href="https://twitter.com/lordinatrice" target="blank"><img src="https://img.shields.io/twitter/follow/lordinatrice?logo=twitter&style=for-the-badge" alt="lordinatrice" /></a> </p>
 <br/>
@@ -28,4 +29,4 @@
   <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a>
 </p>
 
-“The world hates change. Yet it is the only thing that has brought progress.” Charles F. Kettering
+
