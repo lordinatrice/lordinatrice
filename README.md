@@ -8,7 +8,7 @@
 
 - 👀 Co-writing a [Ruby/Rails Newsletter](https://womenonrails.substack.com/)
 
-- 👯 Looking to collaborate on [Women on Rails, ressources website](https://github.com/women-on-rails/ressources) and [Guide de reconversion](https://github.com/ladiesOfCodeParis/guide-reconversion/)
+- 👯 Looking to collaborate on [Women on Rails, ressources website](https://github.com/women-on-rails/ressources)
 
 - 💬 Ask me about **Ruby On Rails, remote work** ♥️
 
