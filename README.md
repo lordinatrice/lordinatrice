@@ -6,6 +6,8 @@
 <p align="center"> <a href="https://twitter.com/lordinatrice" target="blank"><img src="https://img.shields.io/twitter/follow/lordinatrice?logo=twitter&style=for-the-badge" alt="lordinatrice" /></a> </p>
 <br/>
 
+- [PORTFOLIO](https://lordinatrice.github.io/)
+ 
 - 👀 Co-writing a [Ruby/Rails Newsletter](https://womenonrails.substack.com/)
 
 - 👯 Looking to collaborate on [Women on Rails, ressources website](https://github.com/women-on-rails/ressources)
